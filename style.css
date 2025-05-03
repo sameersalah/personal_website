@@ -202,3 +202,15 @@ img {
 	color: #666;
 	margin: 0;
 }
+
+.construction-notice {
+	text-align: center;
+	margin-top: 2rem;
+	padding: 1rem;
+	color: #666;
+	font-size: 0.9rem;
+}
+
+.construction-notice p {
+	margin: 0;
+}
